@@ -1,0 +1,302 @@
+[
+    {
+        "id": 1,
+        "title_en": "Booking Service",
+        "title_fr": "Service de Réservation",
+        "description_en": "Handles all booking operations.",
+        "description_fr": "Gère toutes les opérations de réservation.",
+        "owner": "John Doe",
+        "email_contact": "john.doe@demo.com",
+        "git": "https://github.com/travelagency/booking-service",
+        "technologies": {
+            "languages": ["Java", "Kotlin"],
+            "framework": ["Spring Boot"],
+            "db": ["PostgreSQL"]
+        }
+    },
+    {
+        "id": 2,
+        "title_en": "Payment Service",
+        "title_fr": "Service de Paiement",
+        "description_en": "Processes all payments.",
+        "description_fr": "Traite tous les paiements.",
+        "owner": "Jane Smith",
+        "email_contact": "jane.smith@demo.com",
+        "git": "https://github.com/travelagency/payment-service",
+        "technologies": {
+            "languages": ["Python"],
+            "framework": ["Django"],
+            "db": ["MySQL"]
+        }
+    },
+    {
+        "id": 3,
+        "title_en": "User Management Service",
+        "title_fr": "Service de Gestion des Utilisateurs",
+        "description_en": "Manages user accounts and profiles.",
+        "description_fr": "Gère les comptes et profils des utilisateurs.",
+        "owner": "Alice Johnson",
+        "email_contact": "alice.johnson@demo.com",
+        "git": "https://github.com/travelagency/user-management-service",
+        "technologies": {
+            "languages": ["JavaScript"],
+            "framework": ["Node.js"],
+            "db": ["MongoDB"]
+        }
+    },
+    {
+        "id": 4,
+        "title_en": "Notification Service",
+        "title_fr": "Service de Notification",
+        "description_en": "Sends notifications to users.",
+        "description_fr": "Envoie des notifications aux utilisateurs.",
+        "owner": "Bob Brown",
+        "email_contact": "bob.brown@demo.com",
+        "git": "https://github.com/travelagency/notification-service",
+        "technologies": {
+            "languages": ["Go"],
+            "framework": ["Gin"],
+            "db": ["Redis"]
+        }
+    },
+    {
+        "id": 5,
+        "title_en": "Search Service",
+        "title_fr": "Service de Recherche",
+        "description_en": "Provides search functionality for travel options.",
+        "description_fr": "Fournit une fonctionnalité de recherche pour les options de voyage.",
+        "owner": "Charlie Davis",
+        "email_contact": "charlie.davis@demo.com",
+        "git": "https://github.com/travelagency/search-service",
+        "technologies": {
+            "languages": ["Ruby"],
+            "framework": ["Rails"],
+            "db": ["Elasticsearch"]
+        }
+    },
+    {
+        "id": 6,
+        "title_en": "Review Service",
+        "title_fr": "Service de Critiques",
+        "description_en": "Manages user reviews and ratings.",
+        "description_fr": "Gère les critiques et évaluations des utilisateurs.",
+        "owner": "Diana Evans",
+        "email_contact": "diana.evans@demo.com",
+        "git": "https://github.com/travelagency/review-service",
+        "technologies": {
+            "languages": ["PHP"],
+            "framework": ["Laravel"],
+            "db": ["MariaDB"]
+        }
+    },
+    {
+        "id": 7,
+        "title_en": "Inventory Service",
+        "title_fr": "Service d'Inventaire",
+        "description_en": "Manages travel inventory and availability.",
+        "description_fr": "Gère l'inventaire et la disponibilité des voyages.",
+        "owner": "Ethan Foster",
+        "email_contact": "ethan.foster@demo.com",
+        "git": "https://github.com/travelagency/inventory-service",
+        "technologies": {
+            "languages": ["C#"],
+            "framework": ["ASP.NET Core"],
+            "db": ["SQL Server"]
+        }
+    },
+    {
+        "id": 8,
+        "title_en": "Analytics Service",
+        "title_fr": "Service d'Analytique",
+        "description_en": "Provides analytics and reporting.",
+        "description_fr": "Fournit des analyses et des rapports.",
+        "owner": "Fiona Green",
+        "email_contact": "fiona.green@demo.com",
+        "git": "https://github.com/travelagency/analytics-service",
+        "technologies": {
+            "languages": ["Scala"],
+            "framework": ["Akka"],
+            "db": ["Cassandra"]
+        }
+    },
+    {
+        "id": 9,
+        "title_en": "Recommendation Service",
+        "title_fr": "Service de Recommandation",
+        "description_en": "Provides travel recommendations.",
+        "description_fr": "Fournit des recommandations de voyage.",
+        "owner": "George Harris",
+        "email_contact": "george.harris@demo.com",
+        "git": "https://github.com/travelagency/recommendation-service",
+        "technologies": {
+            "languages": ["R"],
+            "framework": ["Shiny"],
+            "db": ["Neo4j"]
+        }
+    },
+    {
+        "id": 10,
+        "title_en": "Loyalty Service",
+        "title_fr": "Service de Fidélité",
+        "description_en": "Manages loyalty programs.",
+        "description_fr": "Gère les programmes de fidélité.",
+        "owner": "Hannah Jackson",
+        "email_contact": "hannah.jackson@demo.com",
+        "git": "https://github.com/travelagency/loyalty-service",
+        "technologies": {
+            "languages": ["Swift"],
+            "framework": ["Vapor"],
+            "db": ["SQLite"]
+        }
+    },
+    {
+        "id": 11,
+        "title_en": "Customer Support Service",
+        "title_fr": "Service de Support Client",
+        "description_en": "Handles customer support tickets.",
+        "description_fr": "Gère les tickets de support client.",
+        "owner": "Ian King",
+        "email_contact": "ian.king@demo.com",
+        "git": "https://github.com/travelagency/customer-support-service",
+        "technologies": {
+            "languages": ["Perl"],
+            "framework": ["Dancer"],
+            "db": ["Oracle"]
+        }
+    },
+    {
+        "id": 12,
+        "title_en": "Feedback Service",
+        "title_fr": "Service de Retour",
+        "description_en": "Collects user feedback.",
+        "description_fr": "Collecte les retours des utilisateurs.",
+        "owner": "Jack Lee",
+        "email_contact": "jack.lee@demo.com",
+        "git": "https://github.com/travelagency/feedback-service",
+        "technologies": {
+            "languages": ["Rust"],
+            "framework": ["Rocket"],
+            "db": ["InfluxDB"]
+        }
+    },
+    {
+        "id": 13,
+        "title_en": "Weather Service",
+        "title_fr": "Service Météo",
+        "description_en": "Provides weather information.",
+        "description_fr": "Fournit des informations météorologiques.",
+        "owner": "Karen Martinez",
+        "email_contact": "karen.martinez@demo.com",
+        "git": "https://github.com/travelagency/weather-service",
+        "technologies": {
+            "languages": ["TypeScript"],
+            "framework": ["NestJS"],
+            "db": ["Firebase"]
+        }
+    },
+    {
+        "id": 14,
+        "title_en": "Translation Service",
+        "title_fr": "Service de Traduction",
+        "description_en": "Provides translation services.",
+        "description_fr": "Fournit des services de traduction.",
+        "owner": "Liam Nelson",
+        "email_contact": "liam.nelson@demo.com",
+        "git": "https://github.com/travelagency/translation-service",
+        "technologies": {
+            "languages": ["Haskell"],
+            "framework": ["Yesod"],
+            "db": ["DynamoDB"]
+        }
+    },
+    {
+        "id": 15,
+        "title_en": "Chat Service",
+        "title_fr": "Service de Chat",
+        "description_en": "Provides chat functionality.",
+        "description_fr": "Fournit une fonctionnalité de chat.",
+        "owner": "Mia Owens",
+        "email_contact": "mia.owens@demo.com",
+        "git": "https://github.com/travelagency/chat-service",
+        "technologies": {
+            "languages": ["Elixir"],
+            "framework": ["Phoenix"],
+            "db": ["CouchDB"]
+        }
+    },
+    {
+        "id": 16,
+        "title_en": "Map Service",
+        "title_fr": "Service de Cartographie",
+        "description_en": "Provides map and location services.",
+        "description_fr": "Fournit des services de cartographie et de localisation.",
+        "owner": "Noah Parker",
+        "email_contact": "noah.parker@demo.com",
+        "git": "https://github.com/travelagency/map-service",
+        "technologies": {
+            "languages": ["C++"],
+            "framework": ["Qt"],
+            "db": ["Spatialite"]
+        }
+    },
+    {
+        "id": 17,
+        "title_en": "Flight Service",
+        "title_fr": "Service de Vol",
+        "description_en": "Manages flight bookings and schedules.",
+        "description_fr": "Gère les réservations et les horaires de vol.",
+        "owner": "Olivia Quinn",
+        "email_contact": "olivia.quinn@demo.com",
+        "git": "https://github.com/travelagency/flight-service",
+        "technologies": {
+            "languages": ["Objective-C"],
+            "framework": ["Cocoa"],
+            "db": ["Realm"]
+        }
+    },
+    {
+        "id": 18,
+        "title_en": "Hotel Service",
+        "title_fr": "Service d'Hôtel",
+        "description_en": "Manages hotel bookings and availability.",
+        "description_fr": "Gère les réservations et la disponibilité des hôtels.",
+        "owner": "Paul Roberts",
+        "email_contact": "paul.roberts@demo.com",
+        "git": "https://github.com/travelagency/hotel-service",
+        "technologies": {
+            "languages": ["JavaScript"],
+            "framework": ["Express"],
+            "db": ["SQLite"]
+        }
+    },
+    {
+        "id": 19,
+        "title_en": "Car Rental Service",
+        "title_fr": "Service de Location de Voitures",
+        "description_en": "Manages car rental bookings.",
+        "description_fr": "Gère les réservations de location de voitures.",
+        "owner": "Quinn Scott",
+        "email_contact": "quinn.scott@demo.com",
+        "git": "https://github.com/travelagency/car-rental-service",
+        "technologies": {
+            "languages": ["Java"],
+            "framework": ["Spring"],
+            "db": ["PostgreSQL"]
+        }
+    },
+    {
+        "id": 20,
+        "title_en": "Cruise Service",
+        "title_fr": "Service de Croisière",
+        "description_en": "Manages cruise bookings and schedules.",
+        "description_fr": "Gère les réservations et les horaires de croisière.",
+        "owner": "Rachel Taylor",
+        "email_contact": "rachel.taylor@demo.com",
+        "git": "https://github.com/travelagency/cruise-service",
+        "technologies": {
+            "languages": ["Python"],
+            "framework": ["Flask"],
+            "db": ["MySQL"]
+        }
+    }
+]
