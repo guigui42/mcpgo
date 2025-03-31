@@ -8,7 +8,7 @@ This is a sample [**Model Context Protocol (MCP)**](https://modelcontextprotocol
   - `get_services`: Retrieve all services.
   - `get_service_by_id`: Retrieve a specific service by its ID.
 
-These operations are defined in [`main.go`](./cmd/main.go) and use the service schema and data defined in [`operations/service.ts`](./data/services,json).
+These operations are defined in [`main.go`](./cmd/mcpgo/main.go) and use the service schema and data defined in [`operations/service.ts`](./data/services.json).
 
 - **Extensible**: You can easily add more operations to this server to suit your needs. The server is built using the MCP SDK, making it straightforward to define new tools and their corresponding request handlers.
 
